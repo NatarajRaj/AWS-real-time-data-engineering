@@ -1,4 +1,7 @@
 ******\# AWS Real-Time Data Engineering Pipeline
+<img width="1260" height="596" alt="bdb611_arch_image1-1260x596" src="https://github.com/user-attachments/assets/824fe811-2cc5-49af-b57d-385d9937006b" />
+
+<img width="831" height="541" alt="1_OH9rWNJLb_WPti_Lz0ixRA" src="https://github.com/user-attachments/assets/aa990bc5-5cd5-4872-884e-26cf68327794" />
 
 \## Overview
 
